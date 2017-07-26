@@ -14,7 +14,7 @@ In addition, we provide a next generation licensing scheme that serves the goals
 of emerging economies and developing nations in order to break free fom software
 dependencies generated in predatory contracts. FUPER believes that critical
 software artifacts for States should remain open and be improved by committed
-citizens. All public software should as well 
+citizens. All public software should as well account for their own emissions. 
 
 
 ## About the ground truths for the carbon emissions model
