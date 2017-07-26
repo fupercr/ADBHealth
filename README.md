@@ -60,5 +60,4 @@ emissions. Resources, conservation and recycling, 54(12), pp.1208-1218.
 Operational energy cost: 0.052 g (per second). Sources:
 - Pérez-Lombard, L., Ortiz, J. and Pout, C., 2008. A review on buildings energy
 consumption information. Energy and buildings, 40(3), pp.394-398.
-
-Greenhouse Gases Equivalencies Calculator - Calculations and References (EPA).
+- Greenhouse Gases Equivalencies Calculator - Calculations and References (EPA).
