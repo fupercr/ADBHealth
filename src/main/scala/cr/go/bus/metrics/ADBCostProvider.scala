@@ -20,7 +20,7 @@ trait ADBCostProvider {
   }
 
   /**
-    * Start the chronometer for this agent
+    * Stop the chronometer for this agent
     */
   def chronoEnd(): Unit = {
     ADBCostFactory.chronoEnd()
