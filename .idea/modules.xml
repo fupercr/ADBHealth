@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adbhealth.iml" filepath="$PROJECT_DIR$/.idea/modules/adbhealth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adbhealth-build.iml" filepath="$PROJECT_DIR$/.idea/modules/adbhealth-build.iml" />
+    </modules>
+  </component>
+</project>

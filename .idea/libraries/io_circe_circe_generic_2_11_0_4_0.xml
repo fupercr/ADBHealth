@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="io.circe:circe-generic_2.11:0.4.0" type="repository">
+    <properties maven-id="io.circe:circe-generic_2.11:0.4.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/circe-generic_2.11-0.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-library-2.11.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/circe-core_2.11-0.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/circe-numbers_2.11-0.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cats-core_2.11-0.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cats-macros_2.11-0.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/simulacrum_2.11-0.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/algebra_2.11-0.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/algebra-std_2.11-0.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/machinist_2.11-0.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-reflect-2.11.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/macro-compat_2.11-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/shapeless_2.11-2.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

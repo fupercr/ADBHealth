@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.scalaz:scalaz-core_2.9.0-1:6.0.4" type="repository">
+    <properties maven-id="org.scalaz:scalaz-core_2.9.0-1:6.0.4" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/scalaz-core_2.9.0-1-6.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-library-2.9.0-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="com.roundeights:hasher_2.11:1.2.0" type="repository">
+    <properties maven-id="com.roundeights:hasher_2.11:1.2.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/hasher_2.11-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-library-2.11.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
